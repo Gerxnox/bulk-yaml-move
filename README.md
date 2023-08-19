@@ -58,6 +58,4 @@ print("All YAML files have been moved.")
 
 ---
 
-Please replace the `<repository-url>` placeholder with the actual URL of your GitHub repository. Modify the paths in the script to match your source and destination directories. Review and test the script on your system before running it on important data.
 
-This is the complete README with detailed steps and the script for reference.
